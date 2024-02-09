@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm BGDTC</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bgdtc&label=Profile%20views&color=0e75b6&style=flat" alt="bgdtc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bgdtc&label=Profile%20views&color=0e75b6&style=flat" alt="bgdtc" /> </p>
 
-<p align="left">
+<p align="center">
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgdtc&show_icons=true&locale=en" alt="bgdtc" /></p>
